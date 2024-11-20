@@ -1,6 +1,7 @@
-# Databricks-Test
+# Databricks-Docker-Use
 
-This project includes all the files necessary for performing data ingestion, data transformations, and data storage using a databricks notebook 
+This project includes all the files necessary for performing data ingestion, data transformations, and data storage using a databricks notebook . 
+The goal is to run pyspark using a docker container and run some basic tests.
 
 
 ### How to set up the project 
